@@ -1,0 +1,15 @@
+{
+  "name": "iron-got",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  }
+}
